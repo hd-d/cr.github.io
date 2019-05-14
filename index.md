@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--网页头部-->
+<title>我的主页</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/hd-d/cr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!--body部分为网页显示内容-->
+<body background="image/2.jpg" bgproperties="fixed">
+<!--标题-->
+<h1><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 个人主页</strong></h1>
+<table width="89%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr><th width="243" height="50" align="center" valign="middle" bgcolor="#66FF00"><h3>我的主页</h3></th>
+<td width="277" height="50" align="center" valign="middle" bgcolor="#66FF33"><h3>个人简介</h3></td>
+<td width="268" height="50" align="center" bgcolor="#66FF66"><h3>个人爱好</h3></td>
+    <td width="204" height="18" align="center" bgcolor="#66FF99"><h3>未来展望</h3></td>
+</tr>
+</table>
+<table width="89%" height="418" border="0" align="center">
+  <tr>
+    <td colspan="2" align="center"><font color="#FF9933" size="+2"><b>个人简介</b></font></td>
+    <td width="163">&nbsp;</td>
+    <td width="205" rowspan="3"><a href="school.html"  target="_blank"></td>
+  </tr>
+  <tr>
+    <td height="282" colspan="3"><p class="style3">姓名：黄达</p>
+        <p class="style3">学校： 哈尔滨师范大学</p>
+    <p class="style3">生平：</p></td>
+   
+  </tr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hd-d/cr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</table>
+</body>
+</html>
