@@ -24,7 +24,7 @@
   <tr>
     <td height="282" colspan="3"><p class="style3">姓名：黄达</p>
         <p class="style3">学校： 哈尔滨师范大学</p>
-    <p class="style3">生平：</p></td>
+    <p class="style3">学号：2016020698</p></td>
    
   </tr>
 
