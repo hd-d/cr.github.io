@@ -1,3 +1,4 @@
+<td width="205" rowspan="3">照片<img src="image1.jpg" /></a></td>
 ### 个人信息
 #### 姓名 黄达
 #### 性别 女
